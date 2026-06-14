@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "krebet_mill",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+"features": [
+{"type":"Feature","properties":{"id":null,"nama":"Krebet Baru Mill"},"geometry":{"type":"Point","coordinates":[680288.136434361338615,9104632.39078277349472]}}
+]
+}
